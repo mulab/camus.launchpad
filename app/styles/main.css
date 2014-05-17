@@ -78,6 +78,14 @@ body {
     margin-top: 28px;
 }
 
+.marketing .app-icon {
+    width: 100%;
+}
+
+.marketing .app-title {
+    text-align: center;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
     .container {

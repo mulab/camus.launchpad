@@ -1,0 +1,1 @@
+$(function(){"use strict";$(".app-icon").popover({trigger:"hover"})});

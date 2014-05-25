@@ -46,6 +46,10 @@ body {
     color: #ffffff;
 }
 
+.header .nav-pills.pull-right li {
+    margin-right: 10px;
+}
+
 /* Custom page footer */
 .footer {
     padding-top: 19px;
